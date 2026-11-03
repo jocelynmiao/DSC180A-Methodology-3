@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Jocelyn Miao
-jymiao@ucsd.edu
+Jocelyn Miao and Rocio Saez Aguirre
